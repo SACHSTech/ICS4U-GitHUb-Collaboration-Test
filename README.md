@@ -1,4 +1,4 @@
-# ICS4U-GitHUb-Collaboration-Test
+# Made Some Changes
 For testing collaborative workflow and pull requests.
 
 ## Instructions
